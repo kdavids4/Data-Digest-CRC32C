@@ -2,6 +2,5 @@ resolver: ghc-8.0
 packages:
 - '.'
 extra-deps:
-- snappy-0.2.0.2
 flags: {}
 extra-package-dbs: []
