@@ -1,4 +1,4 @@
-# Snappy Framing Format
+# CRC32C Checksum algorithm
 
 [![Build Status](https://secure.travis-ci.org/kim/snappy-framing.png)](http://travis-ci.org/kim/snappy-framing)
 
